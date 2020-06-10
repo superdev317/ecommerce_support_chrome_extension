@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 50a73019bd9db5138c7844227b455cd937ea95f1 rogiermuijen <rogiermuijen@gmail.com> 1549526302 +0100	clone: from https://github.com/raprel/snarl.git
+50a73019bd9db5138c7844227b455cd937ea95f1 44ac264b9987a1685eb542dd915bcd2a20afc7ea rogiermuijen <rogiermuijen@gmail.com> 1549803789 +0100	commit: First milestone
+44ac264b9987a1685eb542dd915bcd2a20afc7ea 1d230dd022fec43f9018b1c75f1d638b36c85c31 rogiermuijen <rogiermuijen@gmail.com> 1550515341 +0100	commit: Add Project Manage Page
+1d230dd022fec43f9018b1c75f1d638b36c85c31 0599ca0ac182e551b97f3a4af5eca92b937ce6ae rogiermuijen <rogiermuijen@gmail.com> 1550846710 +0100	commit: implement redirect request - 1
+0599ca0ac182e551b97f3a4af5eca92b937ce6ae 1ca3a12b7383db6af992364b9c13b87c7baf31f1 rogiermuijen <rogiermuijen@gmail.com> 1554309685 +0200	commit: implement redirect request - 2
+1ca3a12b7383db6af992364b9c13b87c7baf31f1 d53304c3a20397ef2debbf8855e5e809b58b2735 rogiermuijen <rogiermuijen@gmail.com> 1554863674 +0200	commit: Fix issue#5
+d53304c3a20397ef2debbf8855e5e809b58b2735 72d5b192e9304e88ffba8687967b5e1158b69cb1 rogiermuijen <rogiermuijen@gmail.com> 1555060728 +0200	commit: Fix issue#6, 7, 10, 11, 13, 14, 21
+72d5b192e9304e88ffba8687967b5e1158b69cb1 367ae10756bd86cca78e7b9e3a9032362d367990 rogiermuijen <rogiermuijen@gmail.com> 1555361839 +0200	commit: Fix issue#15
+367ae10756bd86cca78e7b9e3a9032362d367990 72d5b192e9304e88ffba8687967b5e1158b69cb1 rogiermuijen <rogiermuijen@gmail.com> 1555361854 +0200	reset: moving to 72d5b192e9304e88ffba8687967b5e1158b69cb1
+72d5b192e9304e88ffba8687967b5e1158b69cb1 a3dbdcb29ac282de1e0a99bee226053629e02e33 rogiermuijen <rogiermuijen@gmail.com> 1555361927 +0200	commit: Fix issue#15
+a3dbdcb29ac282de1e0a99bee226053629e02e33 8bda9d80cb591dcecca94bdc32a00e32757e50c6 rogiermuijen <rogiermuijen@gmail.com> 1555429601 +0200	commit: Fix issue#16
+8bda9d80cb591dcecca94bdc32a00e32757e50c6 3d7951ad007d0541546478c3ad74a500fb6736cf rogiermuijen <rogiermuijen@gmail.com> 1555552049 +0200	commit: Fix issue#1
+3d7951ad007d0541546478c3ad74a500fb6736cf be61d1533ff64bba95ae1cccc2d7b2ba23bd810d rogiermuijen <rogiermuijen@gmail.com> 1555557103 +0200	commit: Fix issue#12
+be61d1533ff64bba95ae1cccc2d7b2ba23bd810d f38410476edbfcfeb81cf358e6f6e9dd4762b8c6 rogiermuijen <rogiermuijen@gmail.com> 1555646405 +0200	commit: Fix multi tab related issue
+f38410476edbfcfeb81cf358e6f6e9dd4762b8c6 62c7a3ad102baf09a529d2c509be782f0fa183db rogiermuijen <rogiermuijen@gmail.com> 1557241454 +0200	commit: Some updates
+62c7a3ad102baf09a529d2c509be782f0fa183db e88fb82bd23d01734f5b9d9866975b22f18e234d rogiermuijen <rogiermuijen@gmail.com> 1557256027 +0200	commit: Fix issue #22
+e88fb82bd23d01734f5b9d9866975b22f18e234d f3eacd5928fd4874cc0eea42ddb1febc2df8ed33 rogiermuijen <rogiermuijen@gmail.com> 1557343615 +0200	commit: Add assigned rule buttons
+f3eacd5928fd4874cc0eea42ddb1febc2df8ed33 26f997a2f165a7177f1db2abe5f3206f927f7a6e rogiermuijen <rogiermuijen@gmail.com> 1557798429 +0200	commit: Fix issue #19
+26f997a2f165a7177f1db2abe5f3206f927f7a6e b58ca2284437673d9db1fe41771be750f6e7e4f7 rogiermuijen <rogiermuijen@gmail.com> 1557808668 +0200	commit: Fix issue #13
